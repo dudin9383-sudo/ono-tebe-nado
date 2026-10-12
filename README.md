@@ -1,2 +1,1 @@
-ОНО ТЕБЕ НАДО
-ЮДИН ДАНИИЛ АЛЕКСЕЕВИЧ
+https://github.com/dudin9383-sudo/ono-tebe-nado
